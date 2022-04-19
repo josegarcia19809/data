@@ -1,0 +1,25 @@
+numero,nombre,tipo 1,tipo 2,total,ataque,defensa,velocidad
+1,Bulbasaur,Grass,Poison,318,49,49,45
+2,Ivysaur,Grass,Poison,405,62,63,60
+3,Venusaur,Grass,Poison,525,82,83,80
+4,Charmeleon,Fire,,405,64,58,80
+5,Blastoise,Water,,530,83,100,78
+6,Metapod,Bug,,205,20,55,30
+7,Raticate,Normal,,413,81,60,97
+8,Pikachu,Electric,,320,55,40,90
+9,Raichu,Electric,,485,90,55,110
+10,Vulpix,Fire,,299,41,40,65
+11,Paras,Bug,Grass,285,70,55,25
+12,Venomoth,Bug,Poison,450,65,60,90
+13,Persian,Normal,,440,70,60,115
+14,Tentacool,Water,Poison,335,40,35,70
+15,Tentacruel,Water,Poison,515,70,65,100
+16,Golem,Rock,Ground,495,120,130,45
+17,Ponyta,Fire,,410,85,55,90
+18,Rapidash,Fire,,500,100,70,105
+19,Onix,Rock,Ground,385,45,160,70
+20,Tauros,Normal,,490,100,95,110
+21,Lapras,Water,Ice,600,85,80,60
+22,Flareon,Fire,,600,130,60,65
+23,Articuno,Ice,Flying,600,185,100,85
+24,Dragonite,Dragon,Flying,600,134,95,80
